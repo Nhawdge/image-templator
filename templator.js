@@ -1,7 +1,7 @@
 var canvas = document.querySelector('canvas');
 var ctx = canvas.getContext("2d");
 
-var image = "images/bloody_count.png";
+var image = "bloody_count.png";
 
 var img = document.createElement("img");
 
